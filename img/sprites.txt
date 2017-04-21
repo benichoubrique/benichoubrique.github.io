@@ -1,0 +1,2 @@
+/home/a/.depot/projects/benichoubrique.com/logo/logo.png 0 0
+/home/a/.depot/projects/benichoubrique.com/logo/logo_ar.png 0 53
